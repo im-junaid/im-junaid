@@ -11,10 +11,11 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 👈 important
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
-
-          BLOCKS: " ░▒▓█"
+          BLOCKS: " ▏▎▍▌▋▊▉█"
