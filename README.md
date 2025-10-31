@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+#### 💻 Weekly Coding Activity
 <!--START_SECTION:waka-->
 
 ```rust
