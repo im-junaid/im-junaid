@@ -4,8 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python    0 secs          ██████████████████████▉     91.60 %
-RPMSpec   0 secs          ██▏                         08.40 %
+Python    19 mins         ████████████████████████▉   99.69 %
+RPMSpec   0 secs          ▏                           00.31 %
 ```
 
 <!--END_SECTION:waka-->
