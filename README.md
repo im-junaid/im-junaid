@@ -4,17 +4,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 25 November 2025
+From: 28 October 2025 - To: 26 November 2025
 
-Total Time: 47 hrs
+Total Time: 50 hrs 54 mins
 
-Python       27 hrs 5 mins   >>>>>>>>>>>>>>-----------   57.31 %
-Markdown     4 hrs 25 mins   >>-----------------------   09.35 %
-Text         1 hr 43 mins    >------------------------   03.65 %
-PowerShell   49 mins         -------------------------   01.76 %
-XML          27 mins         -------------------------   00.98 %
-JavaScript   23 mins         -------------------------   00.83 %
-Other        16 mins         -------------------------   00.56 %
+Python       30 hrs 15 mins  >>>>>>>>>>>>>>>----------   58.03 %
+Markdown     4 hrs 25 mins   >>-----------------------   08.48 %
+Text         1 hr 53 mins    >------------------------   03.63 %
+Other        1 hr 13 mins    >------------------------   02.36 %
 ```
 
 <!--END_SECTION:waka-->
