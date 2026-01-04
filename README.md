@@ -6,11 +6,11 @@
 ```txt
 From: 28 October 2025 - To: 02 January 2026
 
-Total Time: 133 hrs 54 mins
+Total Time: 138 hrs 11 mins
 
-Python        87 hrs 30 mins  >>>>>>>>>>>>>>>>---------   63.21 %
-Markdown      14 hrs 20 mins  >>>----------------------   10.36 %
-Other         4 hrs 31 mins   >------------------------   03.27 %
+Python        89 hrs 56 mins  >>>>>>>>>>>>>>>>---------   63.01 %
+Markdown      15 hrs 52 mins  >>>----------------------   11.12 %
+Other         4 hrs 32 mins   >------------------------   03.18 %
 ```
 
 <!--END_SECTION:waka-->
