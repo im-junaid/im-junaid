@@ -4,16 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 30 April 2026
+From: 28 October 2025 - To: 01 May 2026
 
-Total Time: 341 hrs 46 mins
+Total Time: 344 hrs 10 mins
 
-Python               123 hrs 16 mins       >>>>>>>>>----------------   35.05 %
-HTML                 67 hrs 6 mins         >>>>>--------------------   19.08 %
-Markdown             39 hrs 7 mins         >>>----------------------   11.13 %
-JavaScript           34 hrs                >>-----------------------   09.67 %
-CSS                  21 hrs 47 mins        >>-----------------------   06.20 %
-Other                9 hrs 57 mins         >------------------------   02.83 %
+Python               124 hrs 24 mins       >>>>>>>>>----------------   35.08 %
+HTML                 67 hrs 19 mins        >>>>>--------------------   18.99 %
+Markdown             39 hrs 55 mins        >>>----------------------   11.26 %
+JavaScript           34 hrs 4 mins         >>-----------------------   09.61 %
+CSS                  21 hrs 47 mins        >>-----------------------   06.15 %
+Other                10 hrs 26 mins        >------------------------   02.94 %
 ```
 
 <!--END_SECTION:waka-->
